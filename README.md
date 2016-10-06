@@ -1,5 +1,5 @@
 # documentation
-Documentation of WebBSC application
+Documentation of WebBSC application in German language.
 
 ***
 
