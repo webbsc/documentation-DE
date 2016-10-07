@@ -101,3 +101,23 @@ Im Menüpunkt Reports werden speziell für das Unternehmen während der Systemin
 Diagramme werden in Gruppen zusammengefasst, genannt Reports. Im Untermenü „Reports“ rechts oben im nachfolgenden Screenshot können die im Konfigurationsmenü definierten Reports angewählt werden, um die entsprechenden Diagramme in einer Kleinformat-Darstellung anzuzeigen. Im folgenden Bild sind das: Basisreports, Branchenvergleiche, Standortreports und Gruppenreports.
 
 Das folgende Bild zeigt sich beim Einstieg in das Modul Reports der WebBSC Demo:
+
+![reports.png](/uploads/reports.png)
+
+Durch Anwahl einer Reportgruppe werden alle Diagramme angezeigt, die dieser Reportgruppe im Menü Konfiguration zugeordnet worden sind. 
+
+Bild oben zeigt die Kleinformat-Darstellung folgender Diagramme aus der angewählten Gruppe „Basisreports“:
+
+* „Standortvergleich Ergebnis pro Quartal“ – Horizontalbalkendiagramm
+
+* „Standortvergleich Ergebnis“ – Liniendiagramm
+
+* „Branchenvergleich Umsatz jährlich“ – Multi-Säulendiagramm
+
+* „G&V Auszug Jahre“ – Multi-Säulendiagramm
+
+* „G%V Auszug Quartal“ – Multisäulendiagramm
+
+* „Standortvergleich Umsatz“ – Liniendiagramm
+
+Die Diagramme im Kleinformat sind durch drücken auf den roten Balken des Diagrammes erweiterbar, sodass das Diagramm in Großformat erscheint. Hier am Beispiel „G&V Auszug Jahre – 2012-2016“:
