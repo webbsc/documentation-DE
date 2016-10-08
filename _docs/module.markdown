@@ -162,7 +162,7 @@ Mit den einzelnen Sub-Menüpunkten können unterschiedliche Aspekte des Unterneh
 
     * Wer darf das System nutzen, welche Daten sollen für wen sichtbar sein?
 
-    * Welche Benutzernamen? Ändern des Passwortes. Welches Cockpit, welche Widgetsnamme sollen angezeigt werden.
+    * Welche Benutzernamen? Ändern des Pases. Welches Cockpit, welche Widgetsnamme sollen angezeigt werden.
 
     * Welche Berechtigungsgruppe (Rolle)? Darf nur gelesen oder auch z.B. neue Kennzahlen angelegt werden. Dürfen Daten hochgeladen werden? Welche Organisationsbereiche, Produktbereiche, Standorte dürfen gesehen werden?
 
@@ -184,16 +184,26 @@ Mit den einzelnen Sub-Menüpunkten können unterschiedliche Aspekte des Unterneh
 
  4. Cockpits: Siehe auch unter „Erstellen von Widgets und Cockpits“ weiter unten.
 
-    * 
+    * Jedem Benutzer kann ein eigenes Cockpit zugeordnet werden, sodass je nach Aufgabenbereich die entsprechenden Kennzahlen angezeigt werden (siehe Rollen und Benutzerrechte).
+
+    * Jedem Cockpit werden bestimmte Widgets (Kennzahlgruppen) zugeordnet, die dann im Cockpit angezeigt werden.
 
  5. Widgets: Siehe auJedem Benutzer kann ein eigenes Cockpit zugeordnet werden, sodass je nach Aufgabenbereich die entsprechenden Kennzahlen angezeigt werden (siehe Rollen und Benutzerrechte).ch unter „Erstellen von Widgets und Cockpits“ weiter unten.
 
+    * Welche Kennzahlen werden im Cockpit in welchen Kennzahlgruppen (Widgets) zusammengefasst dargestellt?
+
+    * z.B. „Umsatz und Ertrag“ oder „Bilanz“ im Demosystem
+
  6. Reports: Siehe auch unter „Erstellen von Diagrammen und Reports“ weiter unten.
+
+    * Definition der Report-Gruppen, die es geben soll, und Zuordnung der Diagramme zu den Reports (Diagrammgruppen).
 
  7. Diagramme: Siehe auch unter „Erstellen von Diagrammen und Reports“ weiter unten.
 
- 8. Kennzahldefinitionen:
+ 8. 
 
- 9. Datenimport:
+ 9. Kennzahldefinitionen:
 
-10. Data Setup:
+10. Datenimport:
+
+11. Data Setup:
