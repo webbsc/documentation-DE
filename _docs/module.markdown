@@ -70,11 +70,11 @@ Das folgende Bild zeigt das Cockpit der WebBSC Demo:
 
 ### Einstellungen im Cockpit und Anzeige in den Widgets
 
-Die Kennzahlen sind im Screenshot oben in 4 Blöcke gegliedert: Umsatz und Ertrag, Bilanzwerte, Kosten Gesamtkostenverfahren, Mitarbeiter und Kunden. 
+Die Kennzahlen sind im Screenshot oben in 4 Blöcke gegliedert: Umsatz und Ertrag, Bilanzwerte, Kosten Gesamtkostenverfahren, Mitarbeiter und Kunden.
 
-Jedes Widget zeigt für eine Reihe von Kennzahlen die absolute Zahl für den Istwert und für den Vergleichswert, eine Prozentzahl für den Prozentvergleich und weiters ein Ampellicht mit grün für „OK“, orange für „fast OK“ und rot für „nicht OK“, und zwar für Produktbereiche/Branchen, Standorte und Vergleichszeiträume entsprechend den „Einstellungen“ ganz rechts im Cockpit. Ein Istwert von 8,0 (Ref) und ein Vergleichswert von 10 (Vgl.) liefert z.B. 80% Zielerreichung. 
+Jedes Widget zeigt für eine Reihe von Kennzahlen die absolute Zahl für den Istwert und für den Vergleichswert, eine Prozentzahl für den Prozentvergleich und weiters ein Ampellicht mit grün für „OK“, orange für „fast OK“ und rot für „nicht OK“, und zwar für Produktbereiche/Branchen, Standorte und Vergleichszeiträume entsprechend den „Einstellungen“ ganz rechts im Cockpit. Ein Istwert von 8,0 (Ref) und ein Vergleichswert von 10 (Vgl.) liefert z.B. 80% Zielerreichung.
 
-Im Block „Einstellungen“ können die zu betrachtenden Organisationsbereiche (Branche und Standort), der zu betrachtende Zeitraum (Jahr, Periode) und der Vergleichszeitraum (Vergleich mit Planzahlen für eine zu wählende Periode oder Vergleich mit den Istzahlen einer zu wählenden Periode) eingestellt werden. Das Cockpit zeigt die entsprechenden Werte an. 
+Im Block „Einstellungen“ können die zu betrachtenden Organisationsbereiche (Branche und Standort), der zu betrachtende Zeitraum (Jahr, Periode) und der Vergleichszeitraum (Vergleich mit Planzahlen für eine zu wählende Periode oder Vergleich mit den Istzahlen einer zu wählenden Periode) eingestellt werden. Das Cockpit zeigt die entsprechenden Werte an.
 
 So ist die Entwicklung der Kennzahlen des Unternehmens in den einzelnen Bereichen auf einen Blick einzusehen.
 
@@ -104,7 +104,7 @@ Das folgende Bild zeigt sich beim Einstieg in das Modul Reports der WebBSC Demo:
 
 ![reports.png](/uploads/reports.png)
 
-Durch Anwahl einer Reportgruppe werden alle Diagramme angezeigt, die dieser Reportgruppe im Menü Konfiguration zugeordnet worden sind. 
+Durch Anwahl einer Reportgruppe werden alle Diagramme angezeigt, die dieser Reportgruppe im Menü Konfiguration zugeordnet worden sind.
 
 Bild oben zeigt die Kleinformat-Darstellung folgender Diagramme aus der angewählten Gruppe „Basisreports“:
 
@@ -121,3 +121,27 @@ Bild oben zeigt die Kleinformat-Darstellung folgender Diagramme aus der angewäh
 * „Standortvergleich Umsatz“ – Liniendiagramm
 
 Die Diagramme im Kleinformat sind durch drücken auf den roten Balken des Diagrammes erweiterbar, sodass das Diagramm in Großformat erscheint. Hier am Beispiel „G&V Auszug Jahre – 2012-2016“:
+
+![report_big-47fc95.png](/uploads/report_big-47fc95.png)
+
+Rechts oben im Bild ist die Legende Führt man den Cursor auf einen der Balken eines Jahres, werden die Werte genau angezeigt, hier:
+
+![report_legend.png](/uploads/report_legend.png)
+
+**Folgende Diagrammtypen stehen zur Verfügung:**
+
+* Liniendiagramm
+
+* Liniendiagramm it Fokus
+
+* Gestapeltes Ebenendiagramm
+
+* Horizontalsäulendiagramm
+
+* Streudiagramm
+
+* Multi-Säulendiagramm
+
+Das System biete umfangreiche Möglichkeiten neue Reports selbst zu definieren. Die Definition der Diagramme erfolgt im Modul „Konfiguration“ mittels Button „Diagramme“. Diagrammgruppen (Reports) werden im Konfigurationsmenü mittels Button „Reports“ angelegt.
+
+Bemerkung: In der WebBSC Demo sind die Reports und Diagramme fix vordefiniert und können vom Anwender nicht geändert werden.
