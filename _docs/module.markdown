@@ -122,11 +122,11 @@ Bild oben zeigt die Kleinformat-Darstellung folgender Diagramme aus der angewäh
 
 Die Diagramme im Kleinformat sind durch drücken auf den roten Balken des Diagrammes erweiterbar, sodass das Diagramm in Großformat erscheint. Hier am Beispiel „G&V Auszug Jahre – 2012-2016“:
 
-![report_big-47fc95.png](/uploads/report_big-47fc95.png)
+![report_big-47fc95.png](/_uploads/report_big-47fc95.png)
 
 Rechts oben im Bild ist die Legende Führt man den Cursor auf einen der Balken eines Jahres, werden die Werte genau angezeigt, hier:
 
-![report_legend.png](/uploads/report_legend.png)
+![report_legend.png](/_uploads/report_legend.png)
 
 **Folgende Diagrammtypen stehen zur Verfügung:**
 
@@ -150,11 +150,11 @@ Bemerkung: In der WebBSC Demo sind die Reports und Diagramme fix vordefiniert un
 
 Nach dem Einstieg in die WebBSC Demo zeigt sich folgendes Bild:
 
-![demo-conf.png](/uploads/demo-conf.png)
+![demo-conf.png](/_uploads/demo-conf.png)
 
 Beim Einstieg in ein Kundensystem werden zusätzliche Punkte angezeigt:
 
-![user-conf.png](/uploads/user-conf.png)
+![user-conf.png](/_uploads/user-conf.png)
 
 Mit den einzelnen Sub-Menüpunkten können unterschiedliche Aspekte des Unternehmens, und was davon in der WebBSC dargestellt werden soll, festgelegt werden. Im Detail wie folgt:
 
