@@ -188,7 +188,7 @@ Mit den einzelnen Sub-Menüpunkten können unterschiedliche Aspekte des Unterneh
 
     * Jedem Cockpit werden bestimmte Widgets (Kennzahlgruppen) zugeordnet, die dann im Cockpit angezeigt werden.
 
- 5. Widgets: Siehe auJedem Benutzer kann ein eigenes Cockpit zugeordnet werden, sodass je nach Aufgabenbereich die entsprechenden Kennzahlen angezeigt werden (siehe Rollen und Benutzerrechte).ch unter „Erstellen von Widgets und Cockpits“ weiter unten.
+ 5. Widgets: Siehe  auch unter „Erstellen von Widgets und Cockpits“ weiter unten.
 
     * Welche Kennzahlen werden im Cockpit in welchen Kennzahlgruppen (Widgets) zusammengefasst dargestellt?
 
@@ -233,3 +233,29 @@ Vorgangsweise bei der Erstellung von Cockpits:
 3. Im Konfigurationsmenü „Benutzer“
 
    * Ergänzen des gewünschten Cockpit für jeden Benutzer.
+
+### Erstellen von Diagrammen und Reports
+
+Vorgangsweise bei der Erstellung von Reports:
+
+1. Im Konfigurationsmenü „Diagramme“
+
+   * Anlegen der gewünschten Diagramme mit den gewünschten Charakteristika, falls noch nicht vorhanden.
+
+2. Im Konfigurationsmenü „Reports“
+
+   * Anlegen einer Reportgruppe, falls nicht vorhanden.
+
+   * Aufnahme der gewünschten Diagramme in der gewünschten Reportgruppe
+
+3. Im Konfigurationsmenü „Benutzer“
+
+   * Ergänzen der gewünschten Reportgruppen für jene Benutzer, für die sie angezeigt werden sollen.
+
+### Datenimport – Datenaktualisierung - Uploaddatei
+
+Mit dem Konfigurationsmodul „Datenimport“ (grüner Button) werden neue Daten ins System eingebracht. Sofort nach dem Datenimport sind die neuen Daten für alle Anzeigen verfügbar.
+
+**Upload Datei und Namen der Worksheets: **
+
+Die Daten werden aus einer Uploaddatei in das System importiert. Eine Uploaddatei ist eine ExcelDateie mit der Endung .xls oder .xlsx. Innerhalb einer Uploaddatei müssen in einem Excel-Worksheet Daten für eine Organisation und die Monate eines Jahres definiert werden. Die Namen der Worksheets müssen aus zwei Teilen bestehen. Die ersten vier Ziffern bedeuten das Jahr (z.B. 2016) und die restlichen Buchstaben müssen den Namen der Organisation darstellen. In der WebBSC Demo steht zum Beispiel das Worksheet “2016KARG“ für die Kennzahlwerte der Jahres 2016 für die Organisation KARG = Karton Graz. KARG ist in diesem Fall ist eine frei gewählte Abkürzung.
