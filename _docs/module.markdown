@@ -200,10 +200,12 @@ Mit den einzelnen Sub-Menüpunkten können unterschiedliche Aspekte des Unterneh
 
  7. Diagramme: Siehe auch unter „Erstellen von Diagrammen und Reports“ weiter unten.
 
- 8. 
+    * Definition der Diagramme, d.h. Die Werte oder der Werteverlauf welcher Kennzahlen sollen für welche Zeiträume angezeigt werden?
 
- 9. Kennzahldefinitionen:
+ 8. Kennzahldefinitionen:
 
-10. Datenimport:
+    * 
 
-11. Data Setup:
+ 9. Datenimport:
+
+10. Data Setup:
