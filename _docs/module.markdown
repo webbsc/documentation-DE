@@ -204,8 +204,32 @@ Mit den einzelnen Sub-Menüpunkten können unterschiedliche Aspekte des Unterneh
 
  8. Kennzahldefinitionen:
 
-    * 
+    * Welche Kennzahlen mit welchen Charakteristiken soll es im System geben?
+
+    * Konfiguration der gewünschten Kennzahlen und deren Typ (Numerisch, Prozentwert, steigend (mehr ist besser, z.B. Umsatz) oder fallend (weniger ist besser, z.B. Kosten). Kennzahlen können auch als dynamische Kennzahlen (Abgeleitete Kennzahlen wie zum Beispiel Materialverbrauch im Verhältnis zum Umsatz) als Prozentwert oder als Summe oder Differenz anderer Kennzahlen dynamisch errechnet werden für den jeweils ausgewählten Organisationsbereich in der gewählten Zeitperiode.
 
  9. Datenimport:
 
+    * Über den grünen Button „DATENIMPORT“ können regelmäßig die aktuellen Werte für die Kennzahlen Unternehmens in das System hochgeladen werden.
+
 10. Data Setup:
+
+    * Über diesen Button können alle in die WebBSC hochgeladenen Kennzahlwerte in Tabellenform angezeigt werden. Entweder Werte aller Kennzahlen für alle Monate eines Jahres oder Monatswerte aller Jahre für eine bestimmte Kennzahl.
+
+### Erstellen von Widgets und Cockpits
+
+Vorgangsweise bei der Erstellung von Cockpits:
+
+1. Im Konfigurationsmenü „Widgets“
+
+   * Anlegen der gewünschten Widgets (Kennzahlgruppen) mit der gewünschten Bezeichnung, falls noch nicht vorhanden.
+
+2. Im Konfigurationsmenü „Cockpits“
+
+   * Anlegen eines Cockpit mit der gewünschten Bezeichnung, falls nicht vorhanden.
+
+   * Aufnahme der gewünschten Widgets für dieses Cockpit
+
+3. Im Konfigurationsmenü „Benutzer“
+
+   * Ergänzen des gewünschten Cockpit für jeden Benutzer.
