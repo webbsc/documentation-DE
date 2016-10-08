@@ -145,3 +145,55 @@ Rechts oben im Bild ist die Legende Führt man den Cursor auf einen der Balken e
 Das System biete umfangreiche Möglichkeiten neue Reports selbst zu definieren. Die Definition der Diagramme erfolgt im Modul „Konfiguration“ mittels Button „Diagramme“. Diagrammgruppen (Reports) werden im Konfigurationsmenü mittels Button „Reports“ angelegt.
 
 Bemerkung: In der WebBSC Demo sind die Reports und Diagramme fix vordefiniert und können vom Anwender nicht geändert werden.
+
+## Das Modul „Konfiguration“
+
+Nach dem Einstieg in die WebBSC Demo zeigt sich folgendes Bild:
+
+![demo-conf.png](/uploads/demo-conf.png)
+
+Beim Einstieg in ein Kundensystem werden zusätzliche Punkte angezeigt:
+
+![user-conf.png](/uploads/user-conf.png)
+
+Mit den einzelnen Sub-Menüpunkten können unterschiedliche Aspekte des Unternehmens, und was davon in der WebBSC dargestellt werden soll, festgelegt werden. Im Detail wie folgt:
+
+ 1. Benutzer:
+
+    * Wer darf das System nutzen, welche Daten sollen für wen sichtbar sein?
+
+    * Welche Benutzernamen? Ändern des Passwortes. Welches Cockpit, welche Widgetsnamme sollen angezeigt werden.
+
+    * Welche Berechtigungsgruppe (Rolle)? Darf nur gelesen oder auch z.B. neue Kennzahlen angelegt werden. Dürfen Daten hochgeladen werden? Welche Organisationsbereiche, Produktbereiche, Standorte dürfen gesehen werden?
+
+ 2. Rollen:
+
+    * Welche Berechtigungstypen sollen definiert werden, die dann einzelnen Benutzern zugeordnet werden.
+
+    * Z.B.: Administrator, Geschäftsleiter, Vertriebsleiter. Mitarbeiter im Vertrieb, Mitarbeiter im Backoffice.
+
+    * In der Rollenverwaltung kann konfiguriert werden, welche Menüpunkte für die jeweilige Rolle erlaubt sind.
+
+ 3. Standorte, (Teil-)Organisationen, Branchen:
+
+    * Wie ist die Organisation strukturiert und welche Produktbereiche bzw. Branchen gibt es im Unternehmen in welchen Hierarchieebenen?
+
+    * Wie sind Leistungsbereiche/Produktbereiche und Standorte zu Organisationseinheiten hierarchisch zusammengefasst, für die z.B. eine eigene Gewinn und Verlustrechnung gemacht wird (Profitcenter). Wie erfolgt daher die Summenbildung für höhere Hierarchieebenen.
+
+    * Branchen sind zum Beispiel Produktbereiche des Unternehmens (z.B. „Papier“ oder „Zubehör“ im Demosystem), oder Leistungsbereiche.
+
+ 4. Cockpits: Siehe auch unter „Erstellen von Widgets und Cockpits“ weiter unten.
+
+    * 
+
+ 5. Widgets: Siehe auJedem Benutzer kann ein eigenes Cockpit zugeordnet werden, sodass je nach Aufgabenbereich die entsprechenden Kennzahlen angezeigt werden (siehe Rollen und Benutzerrechte).ch unter „Erstellen von Widgets und Cockpits“ weiter unten.
+
+ 6. Reports: Siehe auch unter „Erstellen von Diagrammen und Reports“ weiter unten.
+
+ 7. Diagramme: Siehe auch unter „Erstellen von Diagrammen und Reports“ weiter unten.
+
+ 8. Kennzahldefinitionen:
+
+ 9. Datenimport:
+
+10. Data Setup:
