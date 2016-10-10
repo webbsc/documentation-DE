@@ -6,4 +6,4 @@ published: false
 
 # test image
 ![NOWI_thumbnail.jpg](/_uploads/NOWI_thumbnail.jpg)
-![NOWI_thumbnail.jpg](/uploads/NOWI_thumbnail.jpg)
+![NOWI_thumbnail.jpg](../_uploads/NOWI_thumbnail.jpg)
