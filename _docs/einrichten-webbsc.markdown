@@ -73,3 +73,25 @@ Folgende Fragestellungen können dafür hilfreich sein:
 * Welche neuen Wünsche und Anforderungen gibt es für Kennzahlen, deren Ergebnisse regelmäßig analysiert werden sollen?
 
 * Aus welchen Systemen und Datenquellen können daher in Zukunft Kennzahldaten regelmäßig wie in die Uploaddatei(en) übernommen werden?
+
+## Einrichten der Schnittstelle zwischen Datenquellen und Uploaddatei
+
+Wie kommen die neuen Kennzahldaten von den selektierten Datenquellen im richtigen Format in die Uploaddatei zur regelmäßigen Überleitung der Periodenergebnisse in die WebBSC? 
+
+Alle gängigen Lösungen für Unternehmenssoftware bieten Schnittstellen zu Excel an. Diese Schnittstellen werden genutzt, um die Daten zum Beispiel mit den unterschiedlichen Arten von ExcelVerweisen oder mit einfacher Excel-Verlinkung in die vorbereitete Uploaddatei zu übernehmen.
+
+## Konfiguration der WebBSC
+
+Konfiguration der oben festgelegten Standorte, Branchen/Leistungsbereiche, Organisationsbereiche und Kennzahlen, Konfiguration des Cockpit (Welche Kennzahlen sollen in welchem Kennzahlblock (Widget) angezeigt werden, Konfiguration erster Diagramme in Reports, Konfiguration weiterer Benutzer mit Berechtigungen - falls gewünscht.
+
+Die Konfiguration der WebBSC muss bezüglich Kennzahlen und Organisationseinheiten mit der Uploaddatei übereinstimmen, damit das System beim Upload die Daten richtig zuordnen kann.
+
+## Datenimport
+
+Nachdem die WebBSC konfiguriert und die Uploaddatei mit ersten Daten befüllt ist, kann die Uploaddatei in die WebBSC im Modul „Konfiguration“ mittels Button „Datenimport“ übernommen werden.
+
+Die neu importierten Daten stehen anschließend sofort für die Analysen im Cockpit und im Report Modul zur Verfügung.
+
+*Hinweis zum Datenupload: *
+
+Hilfestellung für den Datenupload gibt in einem Video unter [https://www.webbsc.at/de/ressourcen/anleitungen/](https://www.webbsc.at/de/ressourcen/anleitungen/) .
