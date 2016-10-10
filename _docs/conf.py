@@ -16,6 +16,8 @@ project = u'WebBSC documentation'
 
 html_static_path = ['_static']
 
+html_extra_path = ['_uploads']
+
 html_theme = 'default'
 htmlhelp_basename = 'ReadtheDocsTemplatedoc'
 
