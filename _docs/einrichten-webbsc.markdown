@@ -6,7 +6,7 @@ published: false
 
 # Einrichten „meiner“ WebBSC
 
-## Einrichten des Systems im Überblick
+## Überblick
 
 Um eine WebBSC für ein Unternehmen einzurichten sind folgende Schritte erforderlich:
 
