@@ -6,7 +6,7 @@ published: false
 
 # Einrichten „meiner“ WebBSC
 
-## Einrichten des Systems im Überblick:
+## Einrichten des Systems im Überblick
 
 Um eine WebBSC für ein Unternehmen einzurichten sind folgende Schritte erforderlich:
 
@@ -76,7 +76,7 @@ Folgende Fragestellungen können dafür hilfreich sein:
 
 ## Einrichten der Schnittstelle zwischen Datenquellen und Uploaddatei
 
-Wie kommen die neuen Kennzahldaten von den selektierten Datenquellen im richtigen Format in die Uploaddatei zur regelmäßigen Überleitung der Periodenergebnisse in die WebBSC? 
+Wie kommen die neuen Kennzahldaten von den selektierten Datenquellen im richtigen Format in die Uploaddatei zur regelmäßigen Überleitung der Periodenergebnisse in die WebBSC?
 
 Alle gängigen Lösungen für Unternehmenssoftware bieten Schnittstellen zu Excel an. Diese Schnittstellen werden genutzt, um die Daten zum Beispiel mit den unterschiedlichen Arten von ExcelVerweisen oder mit einfacher Excel-Verlinkung in die vorbereitete Uploaddatei zu übernehmen.
 
@@ -92,6 +92,6 @@ Nachdem die WebBSC konfiguriert und die Uploaddatei mit ersten Daten befüllt is
 
 Die neu importierten Daten stehen anschließend sofort für die Analysen im Cockpit und im Report Modul zur Verfügung.
 
-*Hinweis zum Datenupload: *
+\*Hinweis zum Datenupload: \*
 
 Hilfestellung für den Datenupload gibt in einem Video unter [https://www.webbsc.at/de/ressourcen/anleitungen/](https://www.webbsc.at/de/ressourcen/anleitungen/) .
