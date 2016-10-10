@@ -9,8 +9,13 @@ Contents:
    :maxdepth: 2
    :glob:
    
+   :caption: User Documentation
+   Einfuerung
+   Einrichten
    *
-
+   
+   :caption: Feature Documentation
+   Diagrams
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
 
