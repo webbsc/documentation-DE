@@ -28,9 +28,7 @@ Um eine WebBSC für ein Unternehmen einzurichten sind folgende Schritte erforder
 
 Bei der Einrichtung des Systems und bei allen dafür notwendigen Überlegungen kann die ARGE WebBSC gerne unterstützen. Leistungsangebote dafür sind unter [https://www.webbsc.at/de/produkte-und-services/](https://www.webbsc.at/de/produkte-und-services/) ersichtlich.
 
-# Festlegen der Kennzahlen
-
-**die im System dargestellt werden sollen**
+## Festlegen der Kennzahlen, **die im System dargestellt werden sollen**
 
 Die leitende Fragestellung dazu ist, auf Basis welcher Kennzahlen das Unternehmen gesteuert wird bzw. bisher bewertet wurde und welche Kennzahlen in Zukunft für die Bewertung herangezogen werden sollen. Das ist von der Unternehmensleitung zu entscheiden. Für jede der Kennzahlen sind folgende Charakteristika zu notieren:
 
