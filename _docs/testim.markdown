@@ -6,7 +6,7 @@ published: false
 
 # test image
 
-![NOWI_thumbnail.jpg](/_uploads/NOWI_thumbnail.jpg)
+
 ![NOWI_thumbnail.jpg](../_uploads/NOWI_thumbnail.jpg)
 
 ![elektro_journal_thumbnail.jpg](/uploads/elektro_journal_thumbnail.jpg)
