@@ -6,15 +6,18 @@ Navigate on the left side to find the topic you need guidance with.
 Contents:
 
 .. toctree::
+   :caption: User Documentation
    :maxdepth: 2
    :glob:
    
-   :caption: User Documentation
    Einfuerung
    Einrichten
    *
    
+.. toctree::
    :caption: Feature Documentation
+   :maxdepth: 2
+   
    Diagrams
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
