@@ -18,11 +18,11 @@ Nach dem Einstieg in das System öffnet sich das Cockpit mit den für alle Modul
 
 * Benutzername (hier im Screenshot "DEMO")
 
-![menu.png](/_uploads/menu.png)
+![menu.png](../_uploads/menu.png)
 
 Ganz rechts in der Menüleiste erscheint der Benutzername, mit dem Sie sich angemeldet haben. Im Falle der WebBSC Demo ist das „DEMO“. Durch Anwahl dieses Menüpunktes öffnet sich ein Untermenü zum Abmelden vom System:
 
-![logout.png](/_uploads/logout.png)
+![logout.png](../_uploads/logout.png)
 
 Wiedereinstieg in die WebBSC Demo ist wie bereits oben beschrieben über die Webseite [www.webbsc.at](http://www.webbsc.at) möglich.
 
@@ -52,7 +52,7 @@ Welche Kennzahlen dargestellt werden sollen kann frei im Hauptmenüpunkt „Konf
 
 Das folgende Bild zeigt das Cockpit der WebBSC Demo:
 
-![cockpit.png](/uploads/cockpit.png)
+![cockpit.png](../_uploads/cockpit.png)
 
 ### Begriffe zum Modul Cockpit
 
@@ -82,11 +82,11 @@ So ist die Entwicklung der Kennzahlen des Unternehmens in den einzelnen Bereiche
 
 Mit einem Klick auf eine beliebige Kennzahl in einem Widget kann die Entwicklung dieser Kennzahl im Vergleich zum Plan genauer dargestellt werden. Hier am Beispiel „Gesamtumsatz“:
 
-![diagram1.png](/uploads/diagram1.png)
+![diagram1.png](../_uploads/diagram1.png)
 
 Durch Verschieben des Ausschnittes entlang der Zeitleiste im unteren Bereich der Grafik kann der jeweilige Zeitraum im oberen Teil des Grafen genauer angezeigt werden, um Details analysieren zu können- Siehe nächstes Bild im Vergleich zum vorigen:
 
-![diagram2.png](/uploads/diagram2.png)
+![diagram2.png](../_uploads/diagram2.png)
 
 ### Individuelle Cockpits für unterschiedliche Benutzer
 
@@ -102,7 +102,7 @@ Diagramme werden in Gruppen zusammengefasst, genannt Reports. Im Untermenü „R
 
 Das folgende Bild zeigt sich beim Einstieg in das Modul Reports der WebBSC Demo:
 
-![reports.png](/uploads/reports.png)
+![reports.png](../_uploads/reports.png)
 
 Durch Anwahl einer Reportgruppe werden alle Diagramme angezeigt, die dieser Reportgruppe im Menü Konfiguration zugeordnet worden sind.
 
@@ -122,11 +122,11 @@ Bild oben zeigt die Kleinformat-Darstellung folgender Diagramme aus der angewäh
 
 Die Diagramme im Kleinformat sind durch drücken auf den roten Balken des Diagrammes erweiterbar, sodass das Diagramm in Großformat erscheint. Hier am Beispiel „G&V Auszug Jahre – 2012-2016“:
 
-![report_big-47fc95.png](/_uploads/report_big-47fc95.png)
+![report_big-47fc95.png](../_uploads/report_big-47fc95.png)
 
 Rechts oben im Bild ist die Legende Führt man den Cursor auf einen der Balken eines Jahres, werden die Werte genau angezeigt, hier:
 
-![report_legend.png](/_uploads/report_legend.png)
+![report_legend.png](../_uploads/report_legend.png)
 
 **Folgende Diagrammtypen stehen zur Verfügung:**
 
@@ -150,11 +150,11 @@ Bemerkung: In der WebBSC Demo sind die Reports und Diagramme fix vordefiniert un
 
 Nach dem Einstieg in die WebBSC Demo zeigt sich folgendes Bild:
 
-![demo-conf.png](/_uploads/demo-conf.png)
+![demo-conf.png](../_uploads/demo-conf.png)
 
 Beim Einstieg in ein Kundensystem werden zusätzliche Punkte angezeigt:
 
-![user-conf.png](/_uploads/user-conf.png)
+![user-conf.png](../_uploads/user-conf.png)
 
 Mit den einzelnen Sub-Menüpunkten können unterschiedliche Aspekte des Unternehmens, und was davon in der WebBSC dargestellt werden soll, festgelegt werden. Im Detail wie folgt:
 
@@ -260,7 +260,7 @@ Mit dem Konfigurationsmodul „Datenimport“ (grüner Button) werden neue Daten
 
 Die Daten werden aus einer Uploaddatei in das System importiert. Eine Uploaddatei ist eine ExcelDateie mit der Endung .xls oder .xlsx. Innerhalb einer Uploaddatei müssen in einem Excel-Worksheet Daten für eine Organisation und die Monate eines Jahres definiert werden. Die Namen der Worksheets müssen aus zwei Teilen bestehen. Die ersten vier Ziffern bedeuten das Jahr (z.B. 2016) und die restlichen Buchstaben müssen den Namen der Organisation darstellen. In der WebBSC Demo steht zum Beispiel das Worksheet “2016KARG“ für die Kennzahlwerte der Jahres 2016 für die Organisation KARG = Karton Graz. KARG ist in diesem Fall ist eine frei gewählte Abkürzung.
 
-![worksheet.png](/uploads/worksheet.png)
+![worksheet.png](../_uploads/worksheet.png)
 
 **Aufbau und Struktur eines Worksheets in der Uploaddatei:**
 
