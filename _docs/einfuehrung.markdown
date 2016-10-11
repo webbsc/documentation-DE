@@ -17,7 +17,7 @@ Das vorliegende Benutzerhandbuch dient als Leitfaden für die Benutzung der WebB
 
 Zielgruppe für dieses Handbuch sind sowohl die Unternehmensleitung, welche die WebBSC zur Analyse der aktuellen Unternehmenssituation nutzen möchte, als auch mit Führungs- oder Controllingaufgaben betraute MitarbeiterInnen , und weiters auch MitarbeiterInnen im Back-Office, wo die Datenupdates regelmäßig in die WebBSC hochgeladen werden.
 
-Parallel zur Durchsicht dieses Handbuches ist es empfehlenswert, die einzelnen Schritte online direkt in der WebBSC nachzuvollziehen. Damit sollten die Zusammenhänge unmittelbar klar werden. Dabei kann entweder das über das Internet unter www.webbsc.at frei zugängliche Demosystem oder eine eigene Unternehmens-WebBSC, falls bereits vorhanden, verwendet werden.
+Parallel zur Durchsicht dieses Handbuches ist es empfehlenswert, die einzelnen Schritte online direkt in der WebBSC nachzuvollziehen. Damit sollten die Zusammenhänge unmittelbar klar werden. Dabei kann entweder das über das Internet unter [www.webbsc.at](https://www.webbsc.at) frei zugängliche Demosystem oder eine eigene Unternehmens-WebBSC, falls bereits vorhanden, verwendet werden.
 
 ## Systemvoraussetzungen
 
