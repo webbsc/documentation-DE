@@ -40,7 +40,7 @@ Die leitende Fragestellung dazu ist, auf Basis welcher Kennzahlen das Unternehme
 
 6. Oberes Limit für Ampelschaltung (ab welchem Prozentwert schaltet die Ampel auf „grün“)
 
-7. Richtung: „aufsteigend“ (größer = besser), „absteigend“ (weniger ist besser) oder „optimal“= soll in einem gewissen Bereich sein“
+7. Richtung: „aufsteigend“ (größer = besser), „absteigend“ (weniger = besser) oder „optimal“= soll in einem gewissen Bereich sein
 
 8. Aggregierung: „Summe“, „Durchschnitt“, „Durchschnitt pro Organisation”
 
@@ -58,7 +58,7 @@ Im einfachsten Fall gibt nur die Gesamtsicht auf das Unternehmen (z.B. nur ein P
 
 ## Anlegen der Uploaddatei
 
-Entsprechend der Ergebnisse zu Kennzahlen und Organisationseinheiten (Abschnitte 4.1 und 4.2.) werden in der Uploaddatei nun ein Excel-Worksheet für jede Organisationseinheit und die Kennzahlnamen für jedes Worksheet angelegt.
+Entsprechend der Ergebnisse zu Kennzahlen und Organisationseinheiten (Abschnitte 4.1 und 4.2.) (Abschnitte [Festlegen der Kennzahlen](#festlegen der kennzahlen) und [Festlegen der abzubildenden Unternehmensorganisation](#festlegen der abzubildenden unternehmensorganisation)) werden in der Uploaddatei nun ein Excel-Worksheet für jede Organisationseinheit und die Kennzahlnamen für jedes Worksheet angelegt.
 
 ## Festlegen der Datenquellen im Unternehmen
 
@@ -74,7 +74,7 @@ Folgende Fragestellungen können dafür hilfreich sein:
 
 Wie kommen die neuen Kennzahldaten von den selektierten Datenquellen im richtigen Format in die Uploaddatei zur regelmäßigen Überleitung der Periodenergebnisse in die WebBSC?
 
-Alle gängigen Lösungen für Unternehmenssoftware bieten Schnittstellen zu Excel an. Diese Schnittstellen werden genutzt, um die Daten zum Beispiel mit den unterschiedlichen Arten von ExcelVerweisen oder mit einfacher Excel-Verlinkung in die vorbereitete Uploaddatei zu übernehmen.
+Alle gängigen Lösungen für Unternehmenssoftware bieten Schnittstellen zu Excel an. Diese Schnittstellen werden genutzt, um die Daten zum Beispiel mit den unterschiedlichen Arten von Excel-Verweisen oder mit einfacher Excel-Verlinkung in die vorbereitete Uploaddatei zu übernehmen.
 
 ## Konfiguration der WebBSC
 
