@@ -9,7 +9,7 @@ Welcome to WebBSC documentation!
    :maxdepth: 2
    :glob:
    
-   einfuerung
+   einfuehrung
    module
    einrichten-webbsc
    leistungsangebot-support
