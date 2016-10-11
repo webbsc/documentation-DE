@@ -8,9 +8,9 @@ Contents:
    :maxdepth: 2
    :glob:
    
-   Einfuerung
-   Einrichten
-   *
+   einfuerung
+   einrichten-webbsc
+   module
    leistungsangebot-support
    
 .. toctree::
@@ -18,9 +18,7 @@ Contents:
    :maxdepth: 2
    :glob:
    
-   datenimport
-   diagrams
-   kpi
+   features*
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
 
