@@ -1,9 +1,3 @@
----
-title: Module
-date: 2016-10-07 16:06:00 Z
-published: false
----
-
 # Module der WebBSC und der WebBSC Demo
 
 ## Einstiegsmenü
