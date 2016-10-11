@@ -11,6 +11,7 @@ Contents:
    Einfuerung
    Einrichten
    *
+   leistungsangebot-support
    
 .. toctree::
    :caption: Feature Documentation
