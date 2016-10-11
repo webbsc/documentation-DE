@@ -10,8 +10,8 @@ Welcome to WebBSC documentation!
    :glob:
    
    einfuerung
-   einrichten-webbsc
    module
+   einrichten-webbsc
    leistungsangebot-support
    
 .. toctree::
