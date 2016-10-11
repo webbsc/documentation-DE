@@ -1,6 +1,6 @@
 ---
 title: features-kpi
-date: 2016-10-11 15:06:00 Z
+published: false
 ---
 
 # Kennzahlen
