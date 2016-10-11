@@ -58,7 +58,7 @@ Im einfachsten Fall gibt nur die Gesamtsicht auf das Unternehmen (z.B. nur ein P
 
 ## Anlegen der Uploaddatei
 
-Entsprechend der Ergebnisse zu Kennzahlen und Organisationseinheiten (Abschnitte 4.1 und 4.2.) (Abschnitte [Festlegen der Kennzahlen](#festlegen der kennzahlen) und [Festlegen der abzubildenden Unternehmensorganisation](#festlegen der abzubildenden unternehmensorganisation)) werden in der Uploaddatei nun ein Excel-Worksheet für jede Organisationseinheit und die Kennzahlnamen für jedes Worksheet angelegt.
+Entsprechend der Ergebnisse zu Kennzahlen und Organisationseinheiten (Abschnitte [Festlegen der Kennzahlen](http://documentation-de.readthedocs.io/de/latest/einrichten-webbsc.html#festlegen-der-kennzahlen) und [Festlegen der abzubildenden Unternehmensorganisation](http://documentation-de.readthedocs.io/de/latest/einrichten-webbsc.html#festlegen-der-abzubildenden-unternehmensorganisation)) werden in der Uploaddatei nun ein Excel-Worksheet für jede Organisationseinheit und die Kennzahlnamen für jedes Worksheet angelegt.
 
 ## Festlegen der Datenquellen im Unternehmen
 
