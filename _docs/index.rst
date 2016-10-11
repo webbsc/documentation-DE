@@ -17,7 +17,7 @@ Contents:
    :maxdepth: 2
    :glob:
    
-   featuredocs/datenimport
+   /featuredocs/datenimport
    featuredocs/*
    important
 
