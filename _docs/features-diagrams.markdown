@@ -5,8 +5,6 @@ date: 2016-10-11 12:26:00 Z
 
 # Diagrammen
 
-test
-
 [Link to diagram setup in reports](http://documentation-de.readthedocs.io/de/latest/module.html#erstellen-von-diagrammen-und-reports)
 
 ## Erstellen von Diagrammen und Reports
