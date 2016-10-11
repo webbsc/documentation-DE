@@ -12,7 +12,7 @@ source_parsers = {
 }
 
 master_doc = 'index'
-project = u'WebBSC documentation'
+project = u'WebBSC Dokumentation'
 
 html_static_path = ['_static']
 
