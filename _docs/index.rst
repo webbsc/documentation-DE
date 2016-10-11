@@ -17,6 +17,7 @@ Contents:
 .. toctree::
    :caption: Feature Documentation
    :maxdepth: 2
+   :glob:
    
    important
    featuredocs/*
