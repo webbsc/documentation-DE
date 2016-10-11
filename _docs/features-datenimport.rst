@@ -45,7 +45,7 @@ Die Excel-Worksheets einer Uploaddatei haben ein fixes Format.
 
 Das Programm ersetzt beim Datenupload immer alle eingelesenen Werte für jede eingelesene Kennzahl entsprechend dem Namen des Worksheets für den Monat entsprechend der Spalte, in der der Wert im Worksheet steht. D.h. wenn nur Werte für den Monat Juni des aktuellen Jahres eingebracht werden sollen, brauchen nur die Werte für Juni (Plan- und/oder Istwert) in der Uploaddatei angegeben werden. Leere Zellen (Zellen mit Nullwerten) führen zu keinen Veränderungen für die entsprechenden Monate in der WebBSC.
 
-![data_upload.png](../_uploads/data_upload.png)
+.. image:: ../_uploads/data_upload.png
 
 *Mehrere Upload-Dateien:* 
 
