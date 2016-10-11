@@ -1,3 +1,8 @@
+---
+title: features-diagrams
+date: 2016-10-11 15:06:00 Z
+---
+
 # Diagrammen
 
 [Link to diagram setup in reports](http://documentation-de.readthedocs.io/de/latest/module.html#erstellen-von-diagrammen-und-reports)
