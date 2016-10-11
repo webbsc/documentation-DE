@@ -29,7 +29,7 @@ Wiedereinstieg in die WebBSC Demo ist wie bereits oben beschrieben über die Web
 
 Das Demosystem arbeitet vor dem Hintergrund eines vordefinierten Modellunternehmens mit festgelegten Einstellungen für die Organisationsstruktur, Standorte, Branchen sowie Plan- und Istwerten für die ebenfalls exemplarisch vordefinierten Kennzahlen. Das Demosystem kann damit einen Eindruck über eine Reihe von Möglichkeiten der WebBSC vermitteln. Man kann im Cockpit Einstellungen zu unterschiedlichen Vergleichszeiträumen, Organisationsbereichen, Produktbereichen und Standorten vornehmen, im Report-Modul vordefinierte Reports und Diagramme ansehen, einzelne Bereiche des Konfigurationsmenüs durchsehen und sich damit einen Überblick über einige Grundfunktionen der WebBSC verschaffen.
 
-Basis für die Darstellungen ist eine fiktive \*\*Demoorganisation \*\*mit fixen Plan- und Istdaten für mehrere Jahre:
+Basis für die Darstellungen ist eine fiktive **Demoorganisation **mit fixen Plan- und Istdaten für mehrere Jahre:
 
 * Vertriebsorganisation mit 2 Standorten in Österreich (Bregenz und Graz)
 
@@ -293,7 +293,7 @@ Das Programm ersetzt beim Datenupload immer alle eingelesenen Werte für jede ei
 
 ![data_upload.png](../_uploads/data_upload.png)
 
-*Mehrere Upload-Dateien:* 
+*Mehrere Upload-Dateien:*
 
 Für unterschiedliche Kennzahlen, Organisationsbereiche oder Zeitperioden können unterschiedliche Uploaddateien oder auch mehrere Worksheets in einer Uploaddatei verwendet werden. Entscheidend ist immer nur die Bezeichnung des Worksheets in der Uploaddatei und dessen Aufbau und Inhalt.
 
