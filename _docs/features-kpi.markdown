@@ -1,3 +1,8 @@
+---
+title: features-kpi
+date: 2016-10-11 15:06:00 Z
+---
+
 # Kennzahlen
 
 **Festlegen der Kennzahlen, die im System dargestellt werden sollen**
