@@ -13,7 +13,7 @@ Mit dem Konfigurationsmodul „Datenimport“ (grüner Button) werden neue Daten
 
 Die Daten werden aus einer Uploaddatei in das System importiert. Eine Uploaddatei ist eine ExcelDateie mit der Endung .xls oder .xlsx. Innerhalb einer Uploaddatei müssen in einem Excel-Worksheet Daten für eine Organisation und die Monate eines Jahres definiert werden. Die Namen der Worksheets müssen aus zwei Teilen bestehen. Die ersten vier Ziffern bedeuten das Jahr (z.B. 2016) und die restlichen Buchstaben müssen den Namen der Organisation darstellen. In der WebBSC Demo steht zum Beispiel das Worksheet “2016KARG“ für die Kennzahlwerte der Jahres 2016 für die Organisation KARG = Karton Graz. KARG ist in diesem Fall ist eine frei gewählte Abkürzung.
 
-![worksheet.png](../_uploads/worksheet.png)
+.. image:: ../_uploads/worksheet.png
 
 **Aufbau und Struktur eines Worksheets in der Uploaddatei:**
 
