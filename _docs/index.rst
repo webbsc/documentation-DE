@@ -36,9 +36,9 @@ Find out how WebBSC can help your business in the presentation from E-Day 2015.
    
 :download:`Download this documentation as PDF file <../_uploads/cockpit.png>`
 
-'Python <https://media.readthedocs.org/pdf/documentation-de/latest/documentation-de.pdf>'_
-'Python <readthedocs.org/projects/documentation-de/downloads/pdf/latest>'_
+`Python <https://media.readthedocs.org/pdf/documentation-de/latest/documentation-de.pdf>`_
+`Python <readthedocs.org/projects/documentation-de/downloads/pdf/latest>`_
 :download:`Python <readthedocs.org/projects/documentation-de/downloads/pdf/latest>_`
-:download:``Python <readthedocs.org/projects/documentation-de/downloads/pdf/latest>_``
+`:download:`Python <readthedocs.org/projects/documentation-de/downloads/pdf/latest>_``
    
 
