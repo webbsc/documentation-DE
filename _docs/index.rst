@@ -17,8 +17,8 @@ Contents:
    :maxdepth: 2
    :glob:
    
-   important
    featuredocs/*
+   important
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
 
