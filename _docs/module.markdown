@@ -306,4 +306,4 @@ Es ist zu empfehlen, dass alle Uploaddateien lokal gesichert werden. Damit kann 
 
 Hilfestellung für den Datenupload gibt es in einem Video unter [https://www.webbsc.at/de/ressourcen/anleitungen/](https://www.webbsc.at/de/ressourcen/anleitungen/) 
 
-[![WebBSC Datenimport](https://www.youtube.com/watch?v=PM6b2ur6shQ/0.jpg)](https://www.youtube.com/watch?v=PM6b2ur6shQ)
+[![WebBSC Datenimport](http://img.youtube.com/vi/PM6b2ur6shQ/0.jpg)](https://www.youtube.com/watch?v=PM6b2ur6shQ)
