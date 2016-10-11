@@ -1,5 +1,7 @@
 # Diagrammen
 
+[Link to diagram setup in reports](http://documentation-de.readthedocs.io/de/latest/module.html#erstellen-von-diagrammen-und-reports)
+
 ## Erstellen von Diagrammen und Reports
 
 NEEDS TEXT ABOUT DIAGRAMS IN GENERAL
@@ -23,4 +25,4 @@ NEEDS TEXT ABOUT DIAGRAMS IN GENERAL
 * Streudiagramm
 * Multi-Säulendiagramm
 
-[Link to diagram setup in reports](http://documentation-de.readthedocs.io/de/latest/module.html#erstellen-von-diagrammen-und-reports)
+
