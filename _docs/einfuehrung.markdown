@@ -1,9 +1,3 @@
----
-title: Einfuehrung
-date: 2016-10-07 15:41:00 Z
-published: false
----
-
 # Einführung
 
 ## Was ist WebBSC?
