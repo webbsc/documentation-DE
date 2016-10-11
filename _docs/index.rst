@@ -18,8 +18,9 @@ Contents:
    :maxdepth: 2
    :glob:
    
-   featuredocs/*
-   important
+   datenimport
+   diagrams
+   kpi
 
 Find out how WebBSC can help your business in the presentation from E-Day 2015.
 
