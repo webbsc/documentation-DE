@@ -298,10 +298,12 @@ Das Programm ersetzt beim Datenupload immer alle eingelesenen Werte für jede ei
 
 Für unterschiedliche Kennzahlen, Organisationsbereiche oder Zeitperioden können unterschiedliche Uploaddateien oder auch mehrere Worksheets in einer Uploaddatei verwendet werden. Entscheidend ist immer nur die Bezeichnung des Worksheets in der Uploaddatei und dessen Aufbau und Inhalt.
 
-*Empfehlung: *
+*Empfehlung:*
 
 Es ist zu empfehlen, dass alle Uploaddateien lokal gesichert werden. Damit kann man jederzeit, auch wenn Kennzahlen mit Ihren Werten im System irrtümlich gelöscht worden sein sollten, der gesamte Datenbestand in der WebBSC wieder hergestellt werden.
 
-*Hinweis: *
+*Hinweis:*
 
-Hilfestellung für den Datenupload gibt es in einem Video unter [https://www.webbsc.at/de/ressourcen/anleitungen/](https://www.webbsc.at/de/ressourcen/anleitungen/) .
+Hilfestellung für den Datenupload gibt es in einem Video unter [https://www.webbsc.at/de/ressourcen/anleitungen/](https://www.webbsc.at/de/ressourcen/anleitungen/) 
+
+[![WebBSC Datenimport](https://www.youtube.com/watch?v=PM6b2ur6shQ/0.jpg)](https://www.youtube.com/watch?v=PM6b2ur6shQ)
