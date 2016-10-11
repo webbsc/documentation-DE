@@ -4,7 +4,7 @@ Welcome to WebBSC documentation!
 Contents:
 
 .. toctree::
-   :caption: User Documentation
+   :caption: User Dokumentation
    :maxdepth: 2
    :glob:
    
@@ -14,7 +14,7 @@ Contents:
    leistungsangebot-support
    
 .. toctree::
-   :caption: Feature Documentation
+   :caption: Feature Dokumentation
    :maxdepth: 2
    :glob:
    
